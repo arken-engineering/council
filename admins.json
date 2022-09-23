@@ -3,21 +3,90 @@
     "name": "RuneMetaverse",
     "permissions": {
       "distribute": {},
-      "achievement": {}
+      "achievement": {},
+      "evolution": {},
+      "infinite": {}
     }
   },
   "0xb1b1c99b365d39040334641a008e61e6e43968d3": {
     "name": "Riccardo",
     "permissions": {
       "distribute": {},
-      "achievement": {}
+      "achievement": {},
+      "evolution": {},
+      "infinite": {}
     }
   },
   "0x150F24A67d5541ee1F8aBce2b69046e25d64619c": {
     "name": "Maiev",
     "permissions": {
       "distribute": {},
-      "achievement": {}
+      "achievement": {},
+      "evolution": {},
+      "infinite": {}
+    }
+  },
+  "0x1a367CA7bD311F279F1dfAfF1e60c4d797Faa6eb": {
+    "name": "Testman",
+    "permissions": {
+      "evolution": {},
+      "infinite": {}
+    }
+  },
+  "0x545612032BeaDED7E9f5F5Ab611aF6428026E53E": {
+    "name": "Kevin",
+    "permissions": {
+      "evolution": {},
+      "infinite": {}
+    }
+  },
+  "0x37470038C615Def104e1bee33c710bD16a09FdEf": {
+    "name": "Maiev2",
+    "permissions": {
+      "evolution": {},
+      "infinite": {}
+    }
+  },
+  "0xfE27380E57e5336eB8FFc017371F2147A3268fbE": {
+    "name": "Lazy",
+    "permissions": {
+      "evolution": {},
+      "infinite": {}
+    }
+  },
+  "0x3551691499D740790C4511CDBD1D64b2f146f6Bd": {
+    "name": "Panda",
+    "permissions": {
+      "evolution": {},
+      "infinite": {}
+    }
+  },
+  "0xe563983d6f46266Ad939c16bD59E5535Ab6E774D": {
+    "name": "Discomonk",
+    "permissions": {
+      "evolution": {},
+      "infinite": {}
+    }
+  },
+  "0x62c79c01c33a3761fe2d2aD6f8df324225b8073b": {
+    "name": "Binzy",
+    "permissions": {
+      "evolution": {},
+      "infinite": {}
+    }
+  },
+  "0x82b644E1B2164F5B81B3e7F7518DdE8E515A419d": {
+    "name": "RuneGiveaways",
+    "permissions": {
+      "evolution": {},
+      "infinite": {}
+    }
+  },
+  "0xeb3fCb993dDe8a2Cd081FbE36238E4d64C286AC0": {
+    "name": "Ekkeharta",
+    "permissions": {
+      "evolution": {},
+      "infinite": {}
     }
   }
 }
