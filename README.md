@@ -6,4 +6,4 @@ It contains a list of admins, permissions, server entry points, etc.
 
 We'll grow these as we prepare for the switch.
 
-Read more about Rune DAO: https://rune.game/dao
+Read more: https://rune.game/dao
