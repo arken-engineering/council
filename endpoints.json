@@ -5,5 +5,12 @@
       "host": "na1.runeevolution.com",
       "priority": 10
     }
+  ],
+  "infinite": [
+    {
+      "region": "North America",
+      "host": "na1.runeinfinite.com",
+      "priority": 10
+    }
   ]
 }
