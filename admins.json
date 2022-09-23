@@ -2,8 +2,8 @@
   "0xa987f487639920A3c2eFe58C8FBDedB96253ed9B": {
     "name": "RuneMetaverse",
     "permissions": {
-      "distribute": {},
-      "achievement": {},
+      "distributeReward": {},
+      "distributeAchievement": {},
       "evolution": {},
       "infinite": {}
     }
@@ -11,8 +11,8 @@
   "0xb1b1c99b365d39040334641a008e61e6e43968d3": {
     "name": "Riccardo",
     "permissions": {
-      "distribute": {},
-      "achievement": {},
+      "distributeReward": {},
+      "distributeAchievement": {},
       "evolution": {},
       "infinite": {}
     }
@@ -20,8 +20,8 @@
   "0x150F24A67d5541ee1F8aBce2b69046e25d64619c": {
     "name": "Maiev",
     "permissions": {
-      "distribute": {},
-      "achievement": {},
+      "distributeReward": {},
+      "distributeAchievement": {},
       "evolution": {},
       "infinite": {}
     }
